@@ -63,8 +63,8 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
  - New `ListPersonGroupsAsync` interface with `start` and `top` as paramters and recommend to use `ListPersonGroupsAsync` instead of `GetPersonGroupsAsync`.
 
  *Sample*
- - Add Verfication demo between face and person.
- - Add FindSimilar demo of MatchFace mode. 
+ - `Verfication` demo for face and person authentication.
+ - `FindSimilar` demo of `MatchFace` mode. 
  
  
 ## License
